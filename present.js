@@ -1,6 +1,6 @@
 
 var to = 'Thịnh Oanh';
-var gift_url = 'https://www.facebook.com/huy.hua.18659/';
+var gift_url = '';
 var gift_image_url = 'thinhoanh.JPG';
 
 
